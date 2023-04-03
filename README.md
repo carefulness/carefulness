@@ -7,8 +7,7 @@ If I can, I want to learn front-end development, network security maintenance, a
 - 💞️ I’m looking to collaborate on ...
 Not having that much strength to find a partner, I think I am now looking for a good teacher first.
 - 📫 How to reach me ...
-You can contact my QQ mailbox 2479827852@qq.com, although it looks a bit low-end.
-
+You can contact my  mailbox cherry-yue@tutanota.com
 <!---
 carefulness/carefulness is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
